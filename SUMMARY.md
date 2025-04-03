@@ -24,8 +24,5 @@
 
 * [How web technology works](resource-library/how-web-technology-works.md)
 * [Server vs Client](resource-library/server-vs-client.md)
-
-***
-
-* [Frontend vs Backend vs Fullstack](frontend-vs-backend-vs-fullstack.md)
-* [Web app vs Mobile app](web-app-vs-mobile-app.md)
+* [Frontend vs Backend vs Fullstack](resource-library/frontend-vs-backend-vs-fullstack.md)
+* [Web app vs Mobile app](resource-library/web-app-vs-mobile-app.md)

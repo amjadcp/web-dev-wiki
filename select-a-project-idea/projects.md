@@ -8,6 +8,10 @@
 * Keep all student data **safe in a digital box** (MongoDB).
 * Have a **special login** so only teachers or school staff can see and change the grades.
 
+Difficulty : ⭐⭐⭐ Hard
+
+TRS Reward: +50 TRS
+
 ***
 
 #### 2. **URL Shortening Service**
@@ -17,6 +21,10 @@
 * Take a **long website link** and turn it into a **short one**.
 * Keep track of how many times people click on the short link.
 * Let users **log in** to see their saved short links.
+
+Difficulty : ⭐⭐ Medium
+
+TRS Reward: +35 TRS
 
 ***
 
@@ -28,6 +36,10 @@
 * Look **good on all devices**, like phones, tablets, and computers.
 * Use **very little code** so it loads fast and works smoothly.
 
+Difficulty : ⭐ Easy
+
+TRS Reward: +20 TRS
+
 ***
 
 #### 4. **Restaurant/Café Landing Page**
@@ -37,6 +49,10 @@
 * Show the **menu** so people can see what food they can eat.
 * Show the **location and contact details** so people can visit or order.
 * Use **cool animations** to make the website fun to look at.
+
+Difficulty : ⭐ Easy
+
+TRS Reward: +20 TRS
 
 ***
 
@@ -48,6 +64,10 @@
 * **Remember what users learn** and show their progress.
 * Be easy and fun to use, like a **game**!
 
+Difficulty : ⭐⭐⭐ Hard
+
+TRS Reward: +50 TRS
+
 ***
 
 #### 6. **Temperature Converter Mobile App**
@@ -57,6 +77,10 @@
 * **Change temperature** from Celsius to Fahrenheit and other units.
 * Have a **clean and easy-to-use** design.
 * Show numbers **clearly**, so even kids can use it!
+
+Difficulty : ⭐⭐ Medium
+
+TRS Reward: +35 TRS
 
 ***
 
@@ -68,6 +92,10 @@
 * Let them **mark tasks as important** or **finished**.
 * Work on all devices, so people can use it **on phones and computers**.
 
+Difficulty : ⭐⭐ Medium
+
+TRS Reward: +35 TRS
+
 ***
 
 #### 8. **Background Generator Web Tool**
@@ -77,6 +105,10 @@
 * Let users **pick colors** to create **custom backgrounds**.
 * Give a **copy-paste code** so they can use the background anywhere.
 * Work on all screens, from big desktops to small phones.
+
+Difficulty : ⭐ Easy
+
+TRS Reward: +20 TRS
 
 ***
 
@@ -88,6 +120,10 @@
 * Have a **web dashboard** to show detailed reports.
 * Send **real-time alerts** for important health updates.
 
+Difficulty : ⭐⭐⭐ Hard
+
+TRS Reward: +50 TRS
+
 ***
 
 #### 10. **E-commerce Platform**
@@ -97,3 +133,7 @@
 * Have a **mobile app** for easy shopping.
 * Let sellers add **products with pictures, descriptions, and prices**.
 * Allow **secure payments** so people can buy safely.
+
+Difficulty : ⭐⭐ Medium
+
+TRS Reward: +35 TRS

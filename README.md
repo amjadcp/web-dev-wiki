@@ -1,14 +1,17 @@
 # 📢 Introduction
 
-This wiki is for those who want to learn web technology in their unique style using Node.js. Everyone has their own pace to gain knowledge and develop problem-solving skills. Additionally, web technology is evolving rapidly, so a single course structure may not be effective for everyone.
+This wiki is for those who want to learn web technology in their unique style using Node.js. Everyone has their own pace to gain knowledge and develop problem-solving skills. Web technology evolves rapidly, so rigid courses often fail—here, you’ll learn by **building projects** in a **gamified internship** at _TechNova Solutions_.
 
-In this wiki, we have listed the best resources to help you in your AI-generated learning path. We have also included time-limited challenges to help you maintain discipline in your self-learning journey.
+**Your Mission:**
 
-The most effective learning happens while building projects, so throughout the content of the wiki, you follow an engaging gamified narrative and get to build an application like in a small tech company. On this journey, you will be guided by your virtual mentor, “Alex”, at our fictional tech company, TechNova Solutions. Within your role as a developer intern at TechNova Solutions, you will learn application development in web technology.
+* Earn **TechNova Reputation Score (TRS)** by completing tasks.
+* Unlock **badges** and climb the **Intern Leaderboard**.
+* Build projects like a developer intern guided by your mentor, **Alex**.
+
+
+
+
 
 {% hint style="info" %}
 The Ethical Hacker Course from CISCO Network Academy inspired the structure of this wiki.
 {% endhint %}
-
-
-

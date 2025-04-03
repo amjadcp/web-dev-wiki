@@ -2,17 +2,34 @@
 
 _Hi, it's Alex! I hope you've developed a clear understanding of the core concept I mentioned in our first meeting. Please answer the following questions to assess your knowledge._
 
+* **Reward**: +10 TRS per quiz question correct.
+* **Badge**: 🥇 **Concept Master** (Score 100% on the quiz).
+
 {% content-ref url="questions.md" %}
 [questions.md](questions.md)
 {% endcontent-ref %}
 
+**Alex’s Tip**:
+
+> _“Score 40+ TRS in the quiz to unlock your first project!”_
+
 _Our sales team has successfully closed deals for small projects to assign interns. So, you should select one of these projects. Try to choose the most difficult project among them before the other interns do. The team lead may set a minimum number of interns who can work on the same project. Remember, the most effective learning happens while building projects._
+
+**Risk-Reward Warning**:
+
+> ⚠️ _“Harder projects boost TRS but have tighter deadlines. Lose TRS if you miss them!”_
+
+**Leaderboard Teaser**:
+
+> 🏆 **Top Interns**: Sarah (1200 TRS) | Raj (1100 TRS) | Liam (950 TRS)
 
 {% content-ref url="projects.md" %}
 [projects.md](projects.md)
 {% endcontent-ref %}
 
+**Step 1**: Use AI to draft a **Functional Requirements Document (FRD)**.
 
+* **Badge**: 🛠️ **BRD Architect** (Submit a clear FRD).
 
 _Usually, after the sales team closes a deal, a Business Analyst will schedule a call with the client to gather the business requirements. Following this call, the analyst prepares a document known as the_ [_Business Requirements Document (BRD)_](https://document360.com/blog/business-requirement-document/)_. Once the client approves the BRD, the details are shared with a Project Manager within the company. The Project Manager then creates a blueprint for the developers, referred to as the_ [_Functional Requirements Document (FRD)_](https://document360.com/blog/business-requirement-document/)_. After the client approves the FRD, the UI/UX team begins the design process, and the developers build the application based on the FRD, utilizing the UI design as a guide._
 
@@ -26,6 +43,10 @@ _In our situation, we are handling small-ticket projects. Assigning a business a
 [functional-requirements-document-frd.md](../sample-docs/functional-requirements-document-frd.md)
 {% endcontent-ref %}
 
+**Step 2**: Build a **Sprint Plan** with deadlines.
+
+* **Reward**: +20 TRS for early sprint completion.
+
 _Once you have received approval for the FRD, group the project's features based on their priority and develop a_ [_sprint plan_](https://www.scrum.org/resources/what-is-sprint-planning) _that assigns deadlines to each group. Obtain approval from the team lead for the selected features and their scheduled timelines. On the final day of each sprint, schedule a review meeting with the team lead to assess progress and ensure that everything is on track._
 
 {% content-ref url="../prompt-templates/prompt-template-for-generating-the-sprint-plan.md" %}
@@ -35,6 +56,10 @@ _Once you have received approval for the FRD, group the project's features based
 {% content-ref url="../sample-docs/sprint-plan-student-result-management-system.md" %}
 [sprint-plan-student-result-management-system.md](../sample-docs/sprint-plan-student-result-management-system.md)
 {% endcontent-ref %}
+
+**Alex’s Tip**:
+
+> _“Group features wisely—earn the 🏅 **Sprint Champion** badge for on-time delivery!”_
 
 
 
