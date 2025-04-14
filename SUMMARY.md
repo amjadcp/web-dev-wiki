@@ -26,3 +26,6 @@
 * [Server vs Client](resource-library/server-vs-client.md)
 * [Frontend vs Backend vs Fullstack](resource-library/frontend-vs-backend-vs-fullstack.md)
 * [Web app vs Mobile app](resource-library/web-app-vs-mobile-app.md)
+* [NodeJS](resource-library/nodejs.md)
+* [ReactJS](resource-library/reactjs.md)
+* [ExpressJS](resource-library/expressjs.md)
