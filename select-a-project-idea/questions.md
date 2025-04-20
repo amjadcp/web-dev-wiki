@@ -1,6 +1,6 @@
 # ❓ Questions
 
-1. What is Web Technology Works
+1. What are web technologies?
    1. Web technology is a collection of tools used to create and deliver content on the World Wide Web
    2. Web technology is a type of software enabling internet access
    3. Web technology is a network of interconnected computers
@@ -8,7 +8,7 @@
 2. Which technology is primarily used for server-side scripting?
    1. HTML
    2. CSS
-   3. JavaScript
+   3. JSON
    4. PHP
 3. In Client-Server architecture, which component processes requests?
    1. Client
